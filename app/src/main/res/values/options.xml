@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="options">
+        <item>Treatments</item>
+        <item>Tetimonials</item>
+        <item>Case Study</item>
+        <item>Ask Doctor</item>
+        <item>Upload Photo</item>
+        <item>Gallery</item>
+        <item>FAQ</item>
+    </string-array>
+</resources>
